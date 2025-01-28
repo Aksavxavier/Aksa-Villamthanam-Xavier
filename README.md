@@ -1,4 +1,5 @@
-# Aksa-Villamthanam-Xavier
+# DeepDive-Python
+
 Python Programming Course 
 
 This repository contains my solutions for 8 assignments and 1 project from a structured Python curriculum. The course covers fundamental and advanced topics, including data manipulation (NumPy, Pandas), data visualization (Matplotlib, Seaborn), GUI programming, web scraping, computer vision (OpenCV), and database integration.
